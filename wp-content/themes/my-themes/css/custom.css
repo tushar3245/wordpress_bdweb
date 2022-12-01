@@ -1,0 +1,82 @@
+.logo{
+    height: 50px;
+    width:220px;
+    
+}
+
+.nav li{
+    list-style-type:none;
+    float:left;
+    margin-top:0px;
+   
+ 
+}
+
+
+.nav li a{
+    text-decoration: none;
+    margin-top:0px;
+    padding-top: 0px;
+    padding:5px;
+    background-color: lightblue;
+}
+
+.nav li a:hover{
+    background-color: green;
+    color:beige;
+}
+
+
+
+
+
+
+
+.ndmanu li{
+    list-style-type:none;
+    float:left;
+    padding: 5px;
+    background-color: lightblue;
+  
+}
+
+
+.ndmanu li a{
+    text-decoration: none;
+   
+}
+
+.ndmanu li a:hover{
+    background-color: green;
+    color:beige;
+}
+
+
+
+.footer a{
+	font-size: 15px;
+}
+
+.footer_halnagat p{
+	font-size: 12px;
+}
+
+.footer_porekolpona{
+	font-size: 9px;
+
+}
+
+.n-t a{
+    font-size:15px; 
+   }
+
+
+
+
+
+
+
+
+
+
+
